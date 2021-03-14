@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/include",
+                "${workspaceFolder}/global_stitching",
+                "/usr/local/opencv-3.4.9/include",
+                "/usr/local/include/eigen3",
+                "C:\\workspace\\gitlab\\thirdpartyforwindows\\Boost\\boost_1_66_0_vs2015\\include",
+                "C:\\workspace\\gitlab\\thirdpartyforwindows\\opencv\\build\\include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}

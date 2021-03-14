@@ -1,2 +1,3 @@
-# design_pattern_Cpp
-C++ Design pattern
+# design_pattern
+
+Programming Language : C++
